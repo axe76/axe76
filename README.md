@@ -8,7 +8,7 @@ I am an independent researcher delving into the world of AI and robotics. <br>
 
 How to reach me:
 [![Linkedin](https://img.shields.io/badge/Linkedin-Anirudh%20Menon-success?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anirudh-menon-0b7764170/)
-[![Gmail Badge](https://img.shields.io/badge/-menon.uk1998@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:menon.uk1998@gmail.com)](mailto:anirudhrajiv1999@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-anirudhrajiv1999@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anirudhrajiv1999@gmail.com)](mailto:anirudhrajiv1999@gmail.com)
 
 <!--
 **axe76/axe76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
