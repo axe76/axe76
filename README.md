@@ -6,8 +6,8 @@ I am an independent researcher delving into the world of AI and robotics. <br>
 - ⚡ Recently, I've have been enthusiastically working with Reinforcement Learning and NEAT and have developed some fun environments <br> some of which have been published in international journals 
 - 😄 I am always ready to learn and explore new frontiers. 
 
-How to reach me:
-[![Linkedin](https://img.shields.io/badge/Linkedin-Anirudh%20Menon-success?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anirudh-menon-0b7764170/)
+How to reach me:<br>
+[![Linkedin](https://img.shields.io/badge/Linkedin-Anirudh%20Menon-success?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anirudh-menon-0b7764170/)<br>
 [![Gmail Badge](https://img.shields.io/badge/-anirudhrajiv1999@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anirudhrajiv1999@gmail.com)](mailto:anirudhrajiv1999@gmail.com)
 
 <!--
