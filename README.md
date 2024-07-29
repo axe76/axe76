@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-I am an independent researcher delving into the world of AI and robotics. <br>
 - 🔭 I've been working on some interesting applications of Transformers and GANs
 - 🌱 I've worked with DRDO on Image Encryption with ML techniques and Chaotic Maps
 - ⚡ I have developed some fun environments for Reinforcement Learning and NEAT, <br> some of which have been published in international journals 
